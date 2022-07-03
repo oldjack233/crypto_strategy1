@@ -1,8 +1,14 @@
-# crypto_strategy1
+# crypto_strategy1(last update July 4th)
 
-##### A long only day trade strategy on BTC and ETH
+### A long only day trade strategy on BTC and ETH
+- number of trades: 2948 from 2019.10 to 2022.4
+- total return: 258%, 44% annualy
+- Alpha and sharpe ratio will be realeased later
+![Alt text](https://github.com/oldjack233/crypto_strategy1/blob/main/vs%20market.png)
+
+### Real trade record will be updated weekly as below
 - Effective start date: May 1st 2022
-  - number of trades: 151
+  - number of trades till July 1st: 151
 - commission fee: currenly ignored, 0.01% to 0.06% per trade in reality
 
 |Effective date |	SPCLXM|	SPCLXM return|	strategy return	|cumulative strategy return|	cumulative SPCLXM return|
