@@ -3,6 +3,7 @@
 ### A long only day trade strategy on BTC and ETH
 - number of trades: 2948 from 2019.10 to 2022.4
 - total return: 258%, 44% annualy
+- commission fee: 0.04% assumed for each trade, taking possible maker/taker issue into account
 - Alpha and sharpe ratio will be realeased later
 ![Alt text](https://github.com/oldjack233/crypto_strategy1/blob/main/vs%20market.png)
 
