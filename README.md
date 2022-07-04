@@ -1,6 +1,6 @@
 # Crypto strategy1 (last update July 5th)
 
-## An attempting market-neutral strategy
+## An （attempting） market-neutral strategy
 
 ![Alt text](https://github.com/oldjack233/crypto_strategy1/blob/main/images/vs%20marketv2.png)
 | |annulised return|	sharpe ratio |	max monthly loss |	max drawback	| winning month ratio | number of trades | commission fee |
