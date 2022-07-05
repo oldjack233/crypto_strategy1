@@ -5,10 +5,10 @@
 ![Alt text](https://github.com/oldjack233/crypto_strategy1/blob/main/images/vs%20marketv2.png)
 | |annulised return|	sharpe ratio |	max monthly loss |	max drawback	| winning month ratio | number of trades | commission fee |
 |------|------:|------:|------:|------:|------:|------:|------:|
-|	2019	|	10.32%|	2.58	|	-1.33%	|	-7.58%	|	66.67%	|||
+|	2019	|	48.12%|	2.58	|	-1.33%	|	-7.58%	|	66.67%	|||
 |	2020	|	98.78%|	3.86	|	-0.15%	|	-8.07%	|	100%	|||
 |	2021	|	183.64%|	4.11	|	-2.14%	| -12.28%	|	83.33%	|||
-|	2022	|	28.10%|	12.33	|	-4.01%	|	-6.6%	|	100%	|||
+|	2022	|	71.65%(estimated)|	12.33	|	-4.01%	|	-6.6%	|	100%	|||
 |	overall	|	54.83%|	3.68	|	-4.01%	|	-12.28%	|	90.63%	|2948|0.04%(assumed)
 
 ## :fire::fire::fire::fire:Real trade record will be updated weekly as below
