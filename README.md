@@ -1,4 +1,4 @@
-# Crypto strategy1 (last update July 5th)
+# Crypto strategy1 (last update July 17th)
 
 ## An ultrastable yellow submarine strategy
 
@@ -13,13 +13,23 @@
 
 ## :fire::fire::fire::fire:Real trade record will be updated weekly as below
 - Effective start date: May 1st 2022
-  - number of trades till July 1st: 151
+  - number of trades till July 17th: 183
 - commission fee: currenly ignored, 0.01% to 0.06% per trade in reality
 - estimated capacity: $10M
 
 |Effective date |	SPCLXM |	SPCLXM return |	strategy return	| cumulative strategy return |	cumulative SPCLXM return |
 |------|------:|------:|------:|------:|------:|
-|	2022/7/1	|	42.57	|	1.08%	|	-0.18%	|	6.97%	|	-59.63%	|
+|	2022/7/15	|	46.97	|	2.87%	|	-0.11%	|	8.74%	|	-55.45%	|
+|	2022/7/14	|	45.66	|	6.56%	|	-0.58%	|	8.85%	|	-56.70%	|
+|	2022/7/13	|	42.85	|	1.06%	|	2.12%	|	9.43%	|	-59.36%	|
+|	2022/7/12	|	42.4	|	-5.21%	|	1.14%	|	7.31%	|	-59.79%	|
+|	2022/7/11	|	44.73	|	-4.71%	|	-0.60%	|	6.17%	|	-57.58%	|
+|	2022/7/8	|	46.94	|	-0.93%	|	-0.16%	|	6.77%	|	-55.48%	|
+|	2022/7/7	|	47.38	|	5.03%	|	-0.42%	|	6.93%	|	-55.06%	|
+|	2022/7/6	|	45.11	|	1.12%	|	-0.42%	|	7.36%	|	-57.22%	|
+|	2022/7/5	|	44.61	|	1.11%	|	0.46%	|	7.77%	|	-57.69%	|
+|	2022/7/4	|	44.12	|	3.64%	|	-0.40%	|	7.32%	|	-58.16%	|
+|	2022/7/1	|	42.57	|	1.08%	|	0.57%	|	7.71%	|	-59.63%	|
 |	2022/6/30	|	41.67	|	-2.57%	|	0.05%	|	7.15%	|	-60.48%	|
 |	2022/6/29	|	43.93	|	-1.44%	|	-1.97%	|	7.10%	|	-58.34%	|
 |	2022/6/28	|	45.23	|	-1.42%	|	0.03%	|	9.07%	|	-57.10%	|
