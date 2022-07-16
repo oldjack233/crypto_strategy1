@@ -15,7 +15,7 @@
 - Effective start date: May 1st 2022
   - number of trades till July 1st: 151
 - commission fee: currenly ignored, 0.01% to 0.06% per trade in reality
-
+- estimated capacity: $10M
 |Effective date |	SPCLXM |	SPCLXM return |	strategy return	| cumulative strategy return |	cumulative SPCLXM return |
 |------|------:|------:|------:|------:|------:|
 |	2022/7/1	|	42.57	|	1.08%	|	-0.18%	|	6.97%	|	-59.63%	|
