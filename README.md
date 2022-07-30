@@ -13,7 +13,7 @@
 
 ## :fire::fire::fire::fire:Real trade record will be updated weekly as below
 - Effective start date: May 1st 2022
-  - number of trades till July 17th: 183
+  - number of trades till July 17th: 210
 - commission fee: currenly ignored, 0.01% to 0.06% per trade in reality
 - estimated capacity: $10M
 
