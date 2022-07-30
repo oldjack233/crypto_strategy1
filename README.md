@@ -1,4 +1,4 @@
-# Crypto strategy1 (last update July 17th)
+# Crypto strategy1 (last update July 29th)
 
 ## An ultrastable yellow submarine strategy
 
@@ -7,13 +7,13 @@
 |------|------:|------:|------:|------:|------:|------:|------:|
 |	2019	|	48.12%|	2.58	|	-1.33%	|	-7.58%	|	66.67%	|||
 |	2020	|	98.78%|	3.86	|	-0.15%	|	-8.07%	|	100%	|||
-|	2021	|	183.64%|	4.11	|	-2.14%	| -12.28%	|	83.33%	|||
-|	2022	|	71.65%(estimated)|	12.33	|	-4.01%	|	-6.6%	|	100%	|||
-|	overall	|	54.83%|	3.68	|	-4.01%	|	-12.28%	|	90.63%	|2948|0.04%(assumed)
+|	2021	|	183.64%|	4.11	|	-4.01%	| -12.28%	|	83.33%	|||
+|	2022	|	76.83%(estimated)|	9.73	|	2.08%	|	-14.4%	|	100%	|||
+|	overall	|	52.76%|	3.64	|	-4.01%	|	-14.4%	|	91.18%	|3158|0.04%(assumed)
 
 ## :fire::fire::fire::fire:Real trade record will be updated weekly as below
 - Effective start date: May 1st 2022
-  - number of trades till July 17th: 210
+  - number of trades till July 29th: 210
 - commission fee: currenly ignored, 0.01% to 0.06% per trade in reality
 - estimated capacity: $10M
 
